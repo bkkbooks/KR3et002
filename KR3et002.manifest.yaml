@@ -1,0 +1,637 @@
+canonical_identifier: bkk:krp/KR3et002/v1
+canonical_location: https://kanripo.org/bkk/KR3et002/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 洗冤集錄
+  identifiers:
+    krp: KR3et002
+  tags:
+    kr-categories: KR3et
+    tls-dates: dat04350
+  source:
+    repository: tls-texts
+    path: data/tls/KR3et002.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3et002_000.yaml, hash: 'sha256:3a9c88f1655db78789f5ccbcd2c8049b28e6015ecbdd05f50db8f9050cfc394e'}
+  - {seq: 1, filename: KR3et002_001.yaml, hash: 'sha256:deeeea9c6b676961e3517b592744c55c6b1b4d90695791ea6a1f62e26a8a9430'}
+  - {seq: 2, filename: KR3et002_002.yaml, hash: 'sha256:5b40ae366fb873dc02023515de543551b2e6548cdeaea629b9d4a30d0e31fbcf'}
+  - {seq: 3, filename: KR3et002_003.yaml, hash: 'sha256:f0f37cf0a7eddc57b7a95760b6da290776fef6f0393f4dc3a24eeed643bd4d3f'}
+  - {seq: 4, filename: KR3et002_004.yaml, hash: 'sha256:8cb99948072b4975a57ced5f48d91b9281d5bd081e873fc8fddbe1bffde38bd5'}
+  - {seq: 5, filename: KR3et002_005.yaml, hash: 'sha256:540980687850cde64a7f88a89065b7a824cc8d7d7ce3018738b559c29edde553'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3et002_000.markers.yaml, hash: 'sha256:bd6276819aa82445b019937f20eea6179ce32f2b56236ab558db0e478b63f887'}
+  - {seq: 1, role: markers, filename: assets/KR3et002_001.markers.yaml, hash: 'sha256:80edc6289a5e410ea823fb0e77a2f64f3565aae14b3dc5b9a75a3b169bcd2eab'}
+  - {seq: 2, role: markers, filename: assets/KR3et002_002.markers.yaml, hash: 'sha256:1406001719858abc60c0db00f72f09a23b24ddcd54d0d286e301a37cf5689eb5'}
+  - {seq: 3, role: markers, filename: assets/KR3et002_003.markers.yaml, hash: 'sha256:9a30303ef67f092637515c286fb0d375dc5b1654ac00d4478218edd0270990db'}
+  - {seq: 4, role: markers, filename: assets/KR3et002_004.markers.yaml, hash: 'sha256:3b1229d3b1a4878b4a830cd2625381e8555f9700bd74b6def1cc5bd99556a747'}
+  - {seq: 5, role: markers, filename: assets/KR3et002_005.markers.yaml, hash: 'sha256:5d9b7bcde832dcd64eab2508e1a87485db5a7ab29c5e1de45d7df9cbc74c8db7'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3et002_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 382
+  label: 原序
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3et002_jc_001-d3.h1s1
+    span:
+    - body
+    - 0
+    - 4665
+  label: 卷之一
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3et002_jc_001-d3d2
+    span:
+    - body
+    - 3
+    - 1766
+  label: 一條令
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3et002_jc_001-d3d3
+    span:
+    - body
+    - 1766
+    - 2545
+  label: 二檢覆總說上
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3et002_jc_001-d3d4
+    span:
+    - body
+    - 2545
+    - 3456
+  label: 三檢覆總說下
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3et002_jc_001-d3d5
+    span:
+    - body
+    - 3456
+    - 4665
+  label: 四疑難雜說上
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3et002_jc_002-d4.h1s1
+    span:
+    - body
+    - 0
+    - 4946
+  label: 卷之二
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3et002_jc_002-d4d2
+    span:
+    - body
+    - 3
+    - 1075
+  label: 五疑難雜說下
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3et002_jc_002-d4d3
+    span:
+    - body
+    - 1075
+    - 1288
+  label: 六初檢
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3et002_jc_002-d4d4
+    span:
+    - body
+    - 1288
+    - 1584
+  label: 七覆檢
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3et002_jc_002-d4d5
+    span:
+    - body
+    - 1584
+    - 2536
+  label: 八驗屍
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3et002_jc_002-d4d6
+    span:
+    - body
+    - 2536
+    - 3122
+  label: 九婦人
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3et002_jc_002-d4.d6d14
+    span:
+    - body
+    - 2796
+    - 3122
+  label: 附小兒屍並胞胎
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3et002_jc_002-d4d7
+    span:
+    - body
+    - 3122
+    - 3556
+  label: 十四時變動
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3et002_jc_002-d4d8
+    span:
+    - body
+    - 3556
+    - 4039
+  label: 十一洗罨
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3et002_jc_002-d4d9
+    span:
+    - body
+    - 4039
+    - 4403
+  label: 十二驗未埋瘞屍首
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3et002_jc_002-d4d10
+    span:
+    - body
+    - 4403
+    - 4539
+  label: 十三驗墳內及屋下攢殯屍
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3et002_jc_002-d4d11
+    span:
+    - body
+    - 4539
+    - 4675
+  label: 十四驗壞爛屍
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3et002_jc_002-d4d12
+    span:
+    - body
+    - 4675
+    - 4811
+  label: 十五無憑檢驗
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3et002_jc_002-d4d13
+    span:
+    - body
+    - 4811
+    - 4946
+  label: 十六白僵死瘁死
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3et002_jc_003-d5.h1s1
+    span:
+    - body
+    - 0
+    - 5323
+  label: 卷之三
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3et002_jc_003-d5d2
+    span:
+    - body
+    - 3
+    - 366
+  label: 十七驗骨
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3et002_jc_003-d5d3
+    span:
+    - body
+    - 366
+    - 1905
+  label: 十八論沿身骨脈及要害去處
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3et002_jc_003-d5d4
+    span:
+    - body
+    - 1905
+    - 3449
+  label: 十九自縊
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3et002_jc_003-d5d5
+    span:
+    - body
+    - 3449
+    - 3905
+  label: 二十被打勒死假作自縊
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3et002_jc_003-d5d6
+    span:
+    - body
+    - 3905
+    - 5323
+  label: 二十一溺死
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3et002_jc_004-d6.h1s1
+    span:
+    - body
+    - 0
+    - 5187
+  label: 卷之四
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3et002_jc_004-d6d2
+    span:
+    - body
+    - 3
+    - 915
+  label: 二十二驗他物及手足傷死
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3et002_jc_004-d6d3
+    span:
+    - body
+    - 915
+    - 1533
+  label: 二十三自刑
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3et002_jc_004-d6d4
+    span:
+    - body
+    - 1533
+    - 2504
+  label: 二十四殺傷
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3et002_jc_004-d6d5
+    span:
+    - body
+    - 2504
+    - 2639
+  label: 二十五屍首異處
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3et002_jc_004-d6d6
+    span:
+    - body
+    - 2639
+    - 3137
+  label: 二十六火死
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3et002_jc_004-d6d7
+    span:
+    - body
+    - 3137
+    - 3227
+  label: 二十七湯潑死
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3et002_jc_004-d6d8
+    span:
+    - body
+    - 3227
+    - 4372
+  label: 二十八服毒
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3et002_jc_004-d6d9
+    span:
+    - body
+    - 4372
+    - 5086
+  label: 二十九病死
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3et002_jc_004-d6d10
+    span:
+    - body
+    - 5086
+    - 5126
+  label: 三十針灸死
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3et002_jc_004-d6d11
+    span:
+    - body
+    - 5126
+    - 5187
+  label: 三十一札口詞
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3et002_jc_005-d7.h1s1
+    span:
+    - body
+    - 0
+    - 3327
+  label: 卷之五
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3et002_jc_005-d7d2
+    span:
+    - body
+    - 3
+    - 35
+  label: 三十二驗罪囚死
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3et002_jc_005-d7d3
+    span:
+    - body
+    - 35
+    - 227
+  label: 三十三受杖死
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3et002_jc_005-d7d4
+    span:
+    - body
+    - 227
+    - 313
+  label: 三十四跌死
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3et002_jc_005-d7d5
+    span:
+    - body
+    - 313
+    - 464
+  label: 三十五塌壓死
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3et002_jc_005-d7d6
+    span:
+    - body
+    - 464
+    - 540
+  label: 三十六外物壓塞口鼻死
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3et002_jc_005-d7d7
+    span:
+    - body
+    - 540
+    - 597
+  label: 三十七硬物癮痁死
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3et002_jc_005-d7d8
+    span:
+    - body
+    - 597
+    - 700
+  label: 三十八牛馬踏死
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3et002_jc_005-d7d9
+    span:
+    - body
+    - 700
+    - 758
+  label: 三十九車輪拶死
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3et002_jc_005-d7d10
+    span:
+    - body
+    - 758
+    - 870
+  label: 四十雷震死
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3et002_jc_005-d7d11
+    span:
+    - body
+    - 870
+    - 998
+  label: 四十一虎咬死
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3et002_jc_005-d7d12
+    span:
+    - body
+    - 998
+    - 1060
+  label: 四十二蛇蟲傷死
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3et002_jc_005-d7d13
+    span:
+    - body
+    - 1060
+    - 1172
+  label: 四十三酒食醉飽死
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3et002_jc_005-d7d14
+    span:
+    - body
+    - 1172
+    - 1254
+  label: 四十四醉飽後築踏內損死
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3et002_jc_005-d7d15
+    span:
+    - body
+    - 1254
+    - 1296
+  label: 四十五男子作過死
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3et002_jc_005-d7d16
+    span:
+    - body
+    - 1296
+    - 1337
+  label: 四十六遺路死
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3et002_jc_005-d7d17
+    span:
+    - body
+    - 1337
+    - 1414
+  label: 四十七死後仰臥停泊有微赤色
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3et002_jc_005-d7d18
+    span:
+    - body
+    - 1414
+    - 1462
+  label: 四十八死後蟲鼠犬傷
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3et002_jc_005-d7d19
+    span:
+    - body
+    - 1462
+    - 1523
+  label: 四十九發塚
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3et002_jc_005-d7d20
+    span:
+    - body
+    - 1523
+    - 1781
+  label: 五十驗鄰縣屍
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3et002_jc_005-d7d21
+    span:
+    - body
+    - 1781
+    - 1884
+  label: 五十一闢穢方
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3et002_jc_005-d7d22
+    span:
+    - body
+    - 1884
+    - 3133
+  label: 五十二救死方
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3et002_jc_005-d7d23
+    span:
+    - body
+    - 3133
+    - 3327
+  label: 五十三驗狀說
+  type: section
+  level: 2
+hash: sha256:0b67f9da05a628d9e9ac36dac7daafa5b8465988dc92d17ba189cd50c1a81307
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
